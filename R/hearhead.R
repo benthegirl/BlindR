@@ -46,6 +46,6 @@ writeLines( paste0(paste(c("# ", dframename, dim(data.frame)[1], "observations o
                            dim(data.frame)[2], " variables",
                            "\n\n"),collapse=" "), paste(apply(tab, 1, paste, collapse="|"), collapse=" \n ")),
             paste0(tmp, ".Rmd"))
-render(input=paste0(tmp, ".Rmd"),output_file =paste0(tmp, ".html") ,output_format = "html_document")
+rmarkdown::render(input=paste0(tmp, ".Rmd"),output_file =paste0(tmp, ".html") ,output_format = "html_document")
 browseURL(paste0(tmp, ".html"))
 }
