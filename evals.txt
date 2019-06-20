@@ -1,0 +1,275 @@
+X56342097..What.is.your.overall.opinion.of.the.course.
+Excellent,Good 4.8
+Fair 57.1
+Good 9.5
+Poor 28.6
+X56342099..How.would.you.rate.the.instructor.s.helpfulness.in.answering.questions..the.importance.of.the.class.hour..and.the.availability.and.accessibility.of.the.instructor.
+Excellent 19
+Fair 47.6
+Fair,Poor 4.8
+Good 14.3
+Poor 14.3
+X56342101..How.would.you.rate.the.methods.your.instructor.used.to.determine.your.grade.in.this.class.
+Fair 33.3
+Fair,Poor 9.5
+Good 28.6
+Good,Fair 4.8
+Poor 23.8
+X56342103..How.would.you.rate.the.textbook.and.or.other.materials.used..handouts..websites..etc...
+Fair 38.1
+Fair,Poor 4.8
+Good 23.8
+Good,Fair 4.8
+Poor 28.6
+X56342105..On.the.average..about.how.many.hours.did.you.spend.each.week..outside.of.scheduled.class.or.lab.time..to.study.for.this.course.
+0 to 3 hours per week 28.6
+4 to 7 hours per week 47.6
+4 to 7 hours per week,0 to 3 hours per week 4.8
+8 to 11 hours per week 19
+X56342109..Please.rate.the.instructor.on.the.scale.below..taking.into.consideration.his.or.her.knowledge..preparation..presentation..organization..teaching.style..effort..and.effectiveness.�...Avoid.rating.solely.on.the.basis.of.how.much.you.like.or.dislike.the.instructor.as.a.person..rather..limit.your.answer.to.general.instructional.effectiveness...
+Fair 42.9
+Good 28.6
+Poor 28.6
+
+I feel like it would've been easier to understand if we were taught how to use R-Studio while using it
+This course is arbitrary to the Biology Environmental & Ecology concentration. A linear regression unit in elementary statistics would suffice. This course should be an elective in the concentration for those which wish to pursue a future pertaining to deep statistical analyses and coding.
+laid back and always willing to help.
+Very unorganized. I did not feel prepared for the assignments  and evaluations in the class. It was very confusing. We never got grades back on the homework’s and then were tested in said material that we didn’t get any feedback on. 
+the course was good.
+
+The course was not organized well and it was difficult to know what was expected from the students. 
+I struggled in this class and I feel as I learned very little. The information that was presented to me feels very unorganized and difficult to piece together in a way that makes sense.
+n/A
+It should not be required of biology majors. This class is too difficult for someone without an extensive stats background. 
+I thought it was interesting material and I was able to follow along pretty well, but I definitely had a lot of frustration with R. It felt like we were supposed to have gone into the course already knowing how to use R, which I didn't, and I ended up getting really lost.
+A lot of the course material seemed jumbled and we were expected to understand/know things that we were never taught. 
+I felt as though this course provided me with plenty of knowledge regarding the topic and proved to be a challenge, which I embrace, but the way that information was distributed was flawed. I did not feel as though I had a fair chance of learning course material since I have not taken numerous other stat courses. Interesting topic and very kind Professor. 
+This course was very frustrating.
+The course could have been very doable if it was taught properly. This is a course that contains material that most students have never seen before, therefore it requires someone to teach it. I found myself very lost on tests because the questions were just very different than what we go over during lecture.
+Interesting course
+I feel like it was not structured well for people with no experience in R prior to this class. I felt lost with a lot of the labs because I struggled with R.
+I am sorry to say this but as a Senior in the math department, this is the worst class I have taken yet. 
+Very unorganized, assignments didn’t line up with syllabus, professor didn’t seem prepared for class, prompt with grading and feedback, or like she planned out future coursework at all.
+The course should have been easier than it was. The content wasn’t difficult, but exams were under tight time pressures and students were expected to know R prior to the course.
+
+I wish there were office hours
+Professor Ward is very intelligent in her field, almost too much so to help some students. I have witnessed her blatantly insult another students credentials due to a language barrier and miscommunication of the material on her end that could have been better handled. Her motivation and ability to help students whom are proficient only in elementary statistics (biology majors taking 322 for a concentration) is poor, to say the least.  
+
+There were no set office hours. When we asked about office hours she would give very general times that you could see her, and then still not be there. When she was there she was helpful in the fact that I walked away with the right code for R, but that only because she would just fix the problem. 
+She was fine.
+
+There were no set office hours, but the professor was available upon request. 
+The instructor was very kind and patient when answering questions. She never made students feel bad for asking questions.
+n/A
+She refused to help a couple times to try and get us to figure things out on our own, which i very much disagreed with. 
+Ben is very helpful and willing to answer any of our questions and spend lots of time with us in office hours
+She was excellent with allowing us to redo assignments and helping with answers and responded to emails. 
+Questions were answered straight to the point and lectures did not go into enough detail, requiring questions to be asked on very rudimentary topics. 
+There were no office hours.  This was annoying because no one knew when she was in her office.  Having to email to see when she would be in her office was very annoying and not fair to the students.  I believe I would have done better in this course if there were set office hours. 
+The instructor is helpful at answering questions (basic questions that should be covered in class/lecture). However, does not have official office hours. Does not show up to scheduled office hour appointment on time. 
+Very accessible in office and over email 
+The exams were too lengthy for only having 50 minutes to take them. 
+Most questions go unanswered or there is some serious hand waving that is not productive for learning. 
+Na
+Class time was important, but she seems to not enjoy helping others.
+
+I wish the questions asked were not graded so strict.
+
+
+The tests were either on material we hadn’t got feedback on, or on material we learned the day before. The labs had material that we had not learned and was not explained to us well.
+she was ok.
+
+The grading was harsher than I expected it to be, but the professor did provide make-up opportunities. 
+The grading was mostly fair, and the professor curved exams when appropriate.
+N/A
+Weighting was ok but she graded way too harshly. 
+I thought Ben graded very fairly, but I didn't always know what to expect when getting grades back 
+Labs and homework assignments were fair and great ways to learn the material, but the tests were not reflective of our actual learning and the majority of the class did poorly on the two tests. Additionally, the makeup and the second test were both the last week of class which was very unhelpful. 
+Given the circumstances of the course I think that grades were fairly calculated. Even though I felt like I needed more experience, my grade was not punished severely. 
+
+Graded harshly sometimes but probably because most students did everything wrong since we literally do not know what we are doing. Does not put in grades in at a timely manner.
+Fair grading method
+NA
+Note that uncurved grades show how well the teacher taught, not how poorly the student did. 
+A little vague
+NA
+There are far better resources available online for free
+I barely used it and it was worded strangely throughout the entire thing
+
+
+The textbook was confusing on some of the more complicated topics, but in general was fine.
+ 
+
+We hardly used the text book. 
+textbook was no help
+Class handouts were helpful, but the textbook was more confusing than helpful. 
+The textbook was so technical it was nearly incomprehensible. I honestly thought I had missed several prerequisite courses.
+N/A
+
+We didn't really use the textbook. When we did, it was kind of confusing
+The textbook itself was good but sometimes hard to follow.
+The textbook was very confusing and used in an arbitrary fashion. I did not use it for months and then all of a sudden I am expected to learn a topic, using very intricate language and formulas and feel prepared to comprehend a lecture based on it. Course handouts were fine and designed for our class's knowledge.
+The textbook was useless.  We used it about 2-3 times.  There was no point in having us buy it.
+Used textbook maybe twice.
+
+ 
+textbook used for hw 
+The handouts were helpful in working with R, but the textbook confused me more than helped me understand the content. 
+You did not write the textbook, so please do not put your name on it. 
+
+Make margins big enough so we can hole punch it. 
+
+ 
+Handouts were well put together
+Handouts and book were helpful.
+
+It seemed no matter how much I studied, I did not do any better
+
+
+I would work a couple hours on the homework’s and a few hours on the labs/studying.
+it was ok.
+
+I spent time outside of class either working on labs or homework assignments. 
+The class time given for labs was not nearly enough time to complete them.
+N/A
+
+It really depended on whether we had homework or labs that week. Some weeks we didn't have to do anything, but other weeks were super busy
+Labs and homework assignments were the most helpful part of the class.
+I would've appreciated consistent homework assignments that are easy, but require me to think about the course everyday. It is hard to not have any work for a class for weeks and then feel prepared for a large assignment. 
+This varied week to week because there were weeks where we didn't have homework and weeks were we did.  Not consistent.
+-
+n/a
+NA
+
+Na
+Spent too much time on labs though.
+A) seeing new R commands B) posting code online
+A. Nothing particular
+
+B. Allowing us to have a retake
+
+
+We were allowed to work in groups.
+
+ 
+
+ 
+she helped during her office hours.
+
+The professor was willing to work with students outside of class and provide extra help.
+The instructor was very thorough in writing instructions for the labs. This made them easy to follow and informative.
+N/A
+The study guide for the tests were helpful.
+A) not sure
+
+B) posting all the notes and R coding to canvas
+Labs and homework assignments (and allowing students who did not do to well to re-try them or turn them in late if they had questions)
+I really liked being thrown into R Studio and working with it in the labs, despite there not being enough time allotted for it. 
+
+ 
+
+I found the instructor's attitude very reassuring since there were times I felt like I knew nothing, but her encouragement made me realize I have learned quite a bit. 
+
+I believe it is a pretty neat class. The labs were cool.
+Liked the lab on Fridays 
+A) I enjoyed being exposed to R for the first time.
+
+B) The handouts were very helpful in using R
+I liked doing the predictive modeling, it felt very useful and it made sense. 
+Covered some really interesting material, and reviewed the deeper reasoning behind the statistical principles thoroughly for the nature of the class. She genuinely knows her stuff.
+A) I liked the exposure to R, but thought the instructor expected us to know way more than we did. B) makeup exams helped understand material more
+A) not even remotely mathematically rigorous, too catered to out of department students B) involve more experimental design aspects and information about causality, as well as gone more in-depth with mechanics of computations relied on
+A. Assuming we know how to use R-Studio
+
+B. Going through the program more.
+more group work encouragement could help students of different majors join together to help one another using diversified knowledge and techniques.
+
+We were not really taught how to use R in an effective way. The main method for teaching us was to be given a large packet of output from her code that made no sense because we didn’t know R. If I ever got stuck on something in lab she would just fix it for me, so I didn’t really know what was going on.
+She should make slides. 
+
+I wish we would have gone over more example problems in class so we were better prepared for the final exam and final data analysis project. 
+The instructor needs to organize the information better. Without organization, the student has no idea how concepts relate to each other. Classes often felt like a statistic themed fever dream, where the instructor presented information but I had no idea how to use it.
+N/A
+A. I really didn't like how previous experience with R Studio was 100 percent required to do well in this course but that wasn't a prerequisite. There should 100 percent be one or two more classes between this class and MATH 220. 
+
+B. The instructor did not do well in making the class easier for those that havent had many stats classes. A few times in class she seemed worried that we didn't remember a few concepts from MATH 220, but she still skipped over review way too quickly and instead jumped straight into new material. 
+A) just feeling like I was supposed to already know how to use R, which made me worry that I was going to fall behind
+
+B) explain the basics of how to use R before we start labs
+The tests were not an accurate reflection of our knowledge levels and I believe that the lectures could have been better planned. 
+I disliked the lack of consistent assignments and poorly planned lectures
+
+ 
+
+I think creating a detailed and well prepared lecture and syllabus timeline will help the class stay on track and soak in knowledge more efficiently. 
+This class was very disorganized.  Things were thrown at us very last minute.  I felt that I didn't really learn anything new in this class.  We went in a random order of topics and would always back track.  We were not taught how to use R.  Instead, the code was handed to us on a piece of paper.  We were asked to code stuff and no one knew how to do.  The only way I got through the labs was by copying the code off of the sheets that were handed to us.
+
+I think there needs to be a lot of improvements made to this course.  Having test 2 on the last day of class was very unfair.  The tests ere a lot harder than what we did in class.  We did not do any examples for stuff except for the anova worksheet.  I had to google stuff before the tests in order to make sure I knew everything.  Stuff was on the exams that we barely talked about in class.  This class needs to be more organized with a course plan for the professor to follow.  I am very disappointed in this class.  I was hoping to learn stuff about coding in R, and unfortunately I barely did.
+
+I suggest teaching how to use R during the lab class instead of giving us labs to do independently.  Then assign labs for homework that were based off of what we went over in the lab class.  This way we can learn how to use the system better.  
+
+ 
+I very dislike how little I learned in this course, which I believe I really need to know this material for the future. The instructor can improve by preparing legitimate notes and going step-by-step on how to answer certain problems, etc.
+Wish R code was accessible online
+A) The exams were too long for the amount of time given to take it. R was never introduced properly for those who haven't used it before. 
+
+B) Grade assignments in a timely manner. Teach R more before giving complicated labs. 
+
+It was very unorganized and not clearly planned or scheduled. A solid schedule, a structured outline of the class and when material would be covered, and prompt feedback would all improve the course significantly.
+A) I did not like the time commitment to the labs and felt homework was busy work. B) make tests easier or shorter, and make labs more manageable for people never exposed to R.
+Teaches like it’s a high school class and makes mistakes/seems to lack expertise expected of a professor
+She knows what she is teaching. I just find myself always playing catch-up since things are only notified last minute
+Professor Ward was always unprepared to convey the material to the class, most of my fellow classmates were confused in the topics as well. 
+
+Class lessons seemed disorganized and not well planned. She seemed to get confused or thrown off easily when people asked questions. We got grades back extremely late, if at all. 
+she wasn't very organized.
+
+The professor was knowledgeable about class material, but took weeks to grade assignments. She was sometimes unclear about grade expectations as well and the students were unprepared for some of the lab assignments. Her teaching style was somewhat unorganized because lectures would jump from topic to topic without the material being applied to other class concepts. 
+The instructor was very kind, and clearly very passionate about the subject.
+Tests should be given through out the semester.
+She is very knowledgeable in R Studio but many of us weren't and she did a very poor job of introducing us to the software. She was incredibly unorganized taking a very long time to grade assignments and pushing off our second test until right before finals week. She did her best I think, but she is much better suited to an upper level stats class. 
+Very knowledgeable on the subject and always prepared for class, but sometimes concepts were very confusing, and lectures could have been more structured
+Professor Ward clearly put in the effort and cared about each student doing well, but the amount of questions she had to help with was because little to no assignments and tests (besides labs) were effectively explained. The class was a lot more difficult than it needed to be due to lack of preparation for lectures.
+There was little organization and lectures were rushed through. Many issues developed during lectures that could have been prevented if they were reviewed before hand. I think more careful planning of lectures will alleviate this.
+Not organized at all.  The teaching style was not great either and needs to be improved.
+Needs a lot of work on her teaching skills. Very unorganized lecture and notes. Failed to essentially TEACH. 
+Very knowledgable and helpful 
+Would show up to class late sometimes, felt like some classes were pointless when just going over stuff on canvas and no note taking was needed. Wanted us to succeed. 
+I have never been more confused during a class. This is not that difficult but everything about it was very unorganized. 
+
+Do note that we took all 3 Midterm exams during the last week of class. Midterm 1 everyone failed so we retook it on last tuesday, then we had Midterm 2 last Thurdsay, and the final(take home) was assigned last wednesday. 
+
+I was really hoping to get something out of this class but honestly I got nothing out of it. I feel more confused about all of this than I did before I came in to this class. 
+
+Professor Garren and Professor Chen are the best stat professors I have had. Garren is extremely organized and willing to help. He also understands that not everyone knows how to code so he starts from the ground up. From the very basics. On our very first lab we were doing rmarkdown files using ggplots. Its no wonder everyone in the class struggled. 
+
+Also, I have never had a professor that doesnt have office hours. Once, you said you would be in your office and you didnt show up, I waited for a few hours. 
+
+Make strict deadlines on your hw, also grade them on that deadline. For instance, it took you 2.5 months to grade Spring Break Lab. Some of us had it done by the deadline, but some others submitted it recently. Then when you grade it you give them better grades because they do a much better job, as they did it after we learned it. 
+
+Also, don't curve grades in a weighted way. It barely helps those that did well and really helps those that did poorly. It is not fair to hand points out to those with poor grades. Feels like cheating to me. 
+
+ 
+Online handouts and materials were well done and informative. She was knowledgeable and helpful with problems. However, she didn’t seem organized, well planned, or prepared in class.
+Knowledgeable, but organization and teaching style made the material harder than it needed to be.
+
+Prepare for R-Studio
+Do not take this course with Professor Ward as an instructor.
+
+Read outside sources. Look up how to do stuff in R on your own. 
+I don't know.
+
+My advice would be to have some experience using R software before taking this class. 
+You will have to spend a large amount of time studying outside of class in order to understand anything. You are behind from day 1.
+N/A
+If you're not a STATS or MATH major do not take her. 
+Go to office hours and ask a ton of questions
+My advice is to go to office hours as frequently as possible because they are necessary to do well in the class. 
+Don't worry if you don't have that much statistics experience and get used to looking up how to do things on google
+Know statistics pretty well before taking this course, or else you will struggle a lot.
+-
+Study up
+Familiarize yourself with R.
+Expect to teach yourself everything. Learn rmarkdown and ggplots before you even walk in the door. 
+Ask for clarification on schedule, and keep asking. Ask for grades back. Take this class with another professor if you need a more structured teaching style.
+Be prepared to do a lot of work and know R well.

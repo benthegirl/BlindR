@@ -1,11 +1,16 @@
 Package: BlindR
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
+Title: Tools for Visually Impaired R users
+Version: 0.0.0.9000
+Author: Elizabeth Ben Ward
+Description: Here is some information.
     Use four spaces when indenting paragraphs within the Description.
+URL: https://github.com/benthegirl/BlindR
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+Imports:
+ plyr, 
+ knitr, 
+ rmarkdown 
+RoxygenNote: 6.1.1
