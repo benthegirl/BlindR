@@ -90,17 +90,21 @@ nemeth <- function(expr_str) {
             ## Multiplication stuff
             left <- render(e[[2]])
             right <- render(e[[3]])
-            if (grepl('[0-9]$', left) && grepl('^[.0-9]', right)) {
+            if (grepl('^[.0-9]', right)) {
                 ## two numerical things, explicit multiplication symbol
                 return(paste(left, '*', right, sep = ''))
             } else {
+
                 ## at least one non-numeric, so let's go implicit.
                 return(paste(left, right, sep = ''))
             }
         } else if (fn == '(') {
             ## Parens
             return(paste('(', render(e[[2]]), ')', sep = ''))
-        } else if (fn %in% c('+', '-', '/', '^', '=')) {
+        } else if (fn == '^'){
+
+            return(paste(render(e[[2]]), fn, render(e[[3]]),";", sep = ''))
+        } else if (fn %in% c('+', '-', '/', '=')) {
             ## Other operators
             if (fn %in% names(fnmap)) {
                 ## Map operator character as needed.
@@ -116,5 +120,10 @@ nemeth <- function(expr_str) {
         }
     }
 
-    render(rlang::parse_expr(expr_str))
+    mystring<-render(rlang::parse_expr(expr_str))
+    if(substr(mystring, nchar(mystring),nchar(mystring))==";")
+      return(substr(mystring, start=1, stop=(nchar(mystring)-1)))
+    else(
+      return(mystring)
+    )
 }
