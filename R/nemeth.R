@@ -103,7 +103,7 @@ nemeth <- function(expr_str) {
             return(paste('(', render(e[[2]]), ')', sep = ''))
         } else if (fn == '^'){
 
-            return(paste(render(e[[2]]), fn, render(e[[3]]),";", sep = ''))
+            return(paste(render(e[[2]]), fn, render(e[[3]]),"\U201D", sep = ''))
         } else if (fn %in% c('+', '-', '/', '=')) {
             ## Other operators
             if (fn %in% names(fnmap)) {
