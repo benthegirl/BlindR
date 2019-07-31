@@ -121,6 +121,7 @@ nemeth <- function(expr_str) {
     }
 
     mystring<-render(rlang::parse_expr(expr_str))
+    mystring <- gsub('( .k -?)([.0-9]+)', '\\1#\\2', mystring)
     if(substr(mystring, nchar(mystring),nchar(mystring))==";")
       return(substr(mystring, start=1, stop=(nchar(mystring)-1)))
     else(
